@@ -1,0 +1,30 @@
+* {
+    font-family: 'Afacad';
+}
+
+navbar a {
+    text-decoration: none;
+}
+
+.ctc a:hover {
+    color: aliceblue;
+}
+
+.about-us {
+    background-image: url('images/thisisengineering-uyfohHiTxho-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 60px;
+}
+
+li {
+    padding-left: 120px;
+    margin-top: 15px;
+}
+
+footer {
+    background-color: #F3CD03;
+    padding-bottom: 10px;
+}
